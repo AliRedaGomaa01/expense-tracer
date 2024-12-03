@@ -1,0 +1,24 @@
+[submodule "expense-tracer-laravel"]
+	path = expense-tracer-laravel
+	url = https://github.com/AliRedaGomaa01/expense-tracer-laravel.git
+[submodule "expense-tracer-django"]
+	path = expense-tracer-django
+	url = https://github.com/AliRedaGomaa01/expense-tracer-django.git
+[submodule "expense-tracer-express"]
+	path = expense-tracer-express
+	url = https://github.com/AliRedaGomaa01/expense-tracer-express.git
+[submodule "expense-tracer-react"]
+	path = expense-tracer-react
+	url = https://github.com/AliRedaGomaa01/expense-tracer-react.git
+[submodule "expense-tracer-vue"]
+	path = expense-tracer-vue
+	url = https://github.com/AliRedaGomaa01/expense-tracer-vue.git
+[submodule "expense-tracer-angular"]
+	path = expense-tracer-angular
+	url = https://github.com/AliRedaGomaa01/expense-tracer-angular.git
+[submodule "expense-tracer-flutter"]
+	path = expense-tracer-flutter
+	url = https://github.com/AliRedaGomaa01/expense-tracer-flutter.git
+[submodule "expense-tracer-react-native"]
+	path = expense-tracer-react-native
+	url = https://github.com/AliRedaGomaa01/expense-tracer-react-native.git
