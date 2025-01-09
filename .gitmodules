@@ -10,7 +10,7 @@
 [submodule "expense-tracer-react"]
 	path = expense-tracer-react
 	url = https://github.com/AliRedaGomaa01/expense-tracer-react.git
-[submodule "expense-tracer-vue"]
+[submodule "expense-tracker-vue"]
 	path = expense-tracer-vue
 	url = https://github.com/AliRedaGomaa01/expense-tracer-vue.git
 [submodule "expense-tracer-angular"]
